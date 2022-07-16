@@ -50,9 +50,26 @@ border-radius: 10px;
 width: 800px;
 height: 550pxs;
 }
-footer{
-    background:url("57488135_324630854895042_5632332926945321581_n.jpg");
- width:1000px; 
- height: 850px;
+
    
+
+
+     
+
+header{
+    background:url("1616425148_23-p-istoricheskii-fon-28.jpg")
+}
+footer{
+    background-color: #2f303a;
+    height: 290px;
+} 
+.box9{
+    margin-top: 50px;
+}
+.box10 :hover{
+    color: azure;
+    color: deepskyblue;
+}
+.box11{
+width: 50px;
 }
