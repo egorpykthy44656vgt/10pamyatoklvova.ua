@@ -1,0 +1,136 @@
+h1{
+    font-family:URW Chancery L, cursive ;
+}
+.hero{
+    background-color: blue;
+}
+.hero{
+    background-color: #2f303a;
+    text-align: center;
+    padding-bottom: 200px;
+    padding-top: 200px;
+
+    
+    background-image: linear-gradient(
+      to right,
+      rgba(47, 48, 58, 0.4),
+      rgba(47, 48, 58, 0.4)
+    ),
+     url("yaay.jpg");
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+h1{
+    color: crimson;
+}
+.hero2{
+ color: black;
+}
+h2{
+    font-family:URW Chancery L, cursive ;
+}
+.king2{
+    background-color: crimson;
+}
+.king{
+color: black;
+border-radius: 10px;
+}
+.box3{
+    background-color: crimson;
+    width: 500px;
+    border-radius: 10px;
+}
+.box4{
+    color: black;
+    width: 450px;
+}
+.box5{
+width: 800px;
+height: 550pxs;
+}
+
+   
+
+
+     
+
+header{
+    background:url("1616425148_23-p-istoricheskii-fon-28.jpg")
+}
+footer{
+
+    height: 300px;
+    background-color: #2f303a;
+} 
+.box9{
+    margin-top: 50px;
+}
+
+    
+    
+
+.box11{
+width: 50px;
+}
+.box10{
+    font-family:Dancing Script ;
+}
+.box12{
+    color: azure;
+}
+.box12:hover{
+    color: aqua;
+}
+.box13{
+    width: 40px;
+    margin-bottom: 5px;
+}
+.box14{
+    border: 1px solid black;
+    width: 150px;
+    height: 60px;
+ position: relative;
+ top: 283px;
+
+}
+.box15{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.box18{
+    width: 35px;
+    margin-bottom: 8px;
+    margin-left: 10px;
+}
+.boxy{
+    width: 40px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+header{
+    
+    background: url("29_vozduh3-800x600.jpgs");
+}
+.hero{
+    margin-bottom: 150px;
+}
+.box15{
+    color: black;
+}
+.box15:hover{
+    color: aquamarine; 
+}
+.boxe{
+    color: darkgray;
+}
+.box18{
+    margin-top: 7px;
+}
+.amp-ad{
+   width: 450px; 
+  position: relative;
+  top: 10px;
+  left: 400px;
+}
